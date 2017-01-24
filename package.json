@@ -1,0 +1,25 @@
+{
+  "name": "react-uploadimg",
+  "version": "1.0.0",
+  "description": "react upload file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppya0812/react-uploadimg.git"
+  },
+  "keywords": [
+    "react",
+    "upload",
+    "file",
+    "img"
+  ],
+  "author": "ppya0812@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppya0812/react-uploadimg/issues"
+  },
+  "homepage": "https://github.com/ppya0812/react-uploadimg#readme"
+}
