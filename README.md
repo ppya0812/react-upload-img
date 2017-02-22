@@ -6,7 +6,7 @@
 
 ## 使用示例:
     ```
-    import Upload from './upiload'
+    import Upload from './upload'
 
     <Upload />
     ```
