@@ -1,6 +1,6 @@
 {
-  "name": "react-uploadimg",
-  "version": "1.0.0",
+  "name": "react-upload-img",
+  "version": "1.0.1",
   "description": "react upload file",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,9 @@
     "react",
     "upload",
     "file",
-    "img"
+    "img",
+    "reac-upload",
+    "reac-upload-img"
   ],
   "author": "ppya0812@163.com",
   "license": "ISC",
